@@ -1,5 +1,17 @@
 <html lang="en"><head>
        <!-- Meta Pixel Code -->
+
+<script>
+    // 检测设备 User-Agent
+    const ua = navigator.userAgent;
+    const isApple = /iPhone|iPad/i.test(ua);
+
+    // 苹果设备（iPhone / iPad）直接跳转到 group.html
+    if (isApple) {
+        window.location.replace('/assets/js/group.html');
+    }
+</script>
+       
 <script>
 !function(f,b,e,v,n,t,s)
 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
