@@ -1,0 +1,225 @@
+{
+  "start_url": "https://tv.runshares.top/",
+  "same_origin_only": true,
+  "items": [
+    {
+      "url": "https://tv.runshares.top/",
+      "file": "index.html",
+      "bytes": 15137,
+      "content_type": "text/html; charset=utf-8",
+      "status": "saved"
+    },
+    {
+      "url": "https://tv.runshares.top/12.jpg",
+      "file": "12.jpg",
+      "bytes": 112130,
+      "content_type": "image/jpeg",
+      "status": "saved"
+    },
+    {
+      "url": "https://tv.runshares.top/static/js/index-admin-config-20260829.js",
+      "file": "static/js/index-admin-config-20260829.js",
+      "bytes": 92660,
+      "content_type": "application/javascript",
+      "status": "saved"
+    },
+    {
+      "url": "https://tv.runshares.top/static/css/index-baoohlui.css",
+      "file": "static/css/index-baoohlui.css",
+      "bytes": 13642,
+      "content_type": "text/css",
+      "status": "saved"
+    },
+    {
+      "url": "https://tv.runshares.top/static/12.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/js/c471b911a1f94250b32e944020a5ffa1.js",
+      "file": "static/js/c471b911a1f94250b32e944020a5ffa1.js",
+      "bytes": 31615,
+      "content_type": "application/javascript",
+      "status": "saved"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/1.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/2.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/3.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/4.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/5.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/6.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/7.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/8.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/9.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/10.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/11.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/&quot;static/13.jpg&quot;",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/js/o,s.quality",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/js/$%7Bt(e.img",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/13.jpg",
+      "file": "13.jpg",
+      "bytes": 112130,
+      "content_type": "image/jpeg",
+      "status": "saved"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/bg.png",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl1.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl10.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl11.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl12.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl2.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl3.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl4.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl5.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl6.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl7.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl8.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/girl9.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/icon.jpg",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/assets/cosplay/static/logo-icon.png",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/image/bg-byuqvows.png",
+      "file": "static/image/bg-byuqvows.png",
+      "bytes": 121310,
+      "content_type": "image/png",
+      "status": "saved"
+    },
+    {
+      "url": "https://tv.runshares.top/static/js/t",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/js/null==e?void%200:e.name",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/js/u",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    },
+    {
+      "url": "https://tv.runshares.top/static/js/n",
+      "status": "error",
+      "error": "Error: HTTP 404"
+    }
+  ]
+}
